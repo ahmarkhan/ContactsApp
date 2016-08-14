@@ -1,0 +1,7 @@
+1. Install Node 
+2. Install ExpressJS -  Library for NodeJS 
+3. Install MongoDB
+4. Install MongoJS - For pasing in and out data for MongoDB
+5. Install body parser, for parsing Data in / out of MongoDB.
+
+
